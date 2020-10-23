@@ -1,0 +1,34 @@
+.a{
+    width: 100%;
+    height: 68px;
+    line-height:68px ;
+    background-color: red;
+}
+.b{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px solid #888888;
+    margin-top: 10px;
+    padding-bottom: 80px;
+}
+.b img,.b div{
+    width: 20%;
+}
+.b div{
+    text-align:center ;
+    margin-top: 40px;
+}
+.b div p:nth-child(1){
+    font-size: 30px;
+}
+.c{
+    display: flex;
+    justify-content: space-around; 
+    flex-wrap: wrap;
+}
+.CC{
+    width: 30%;
+    /* border: 1px solid red; */
+    height: 500px;
+    margin: 20px;
+}

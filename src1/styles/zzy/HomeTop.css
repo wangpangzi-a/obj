@@ -1,0 +1,99 @@
+.home-top{
+    width:100%;
+    height: 100%;
+    /* height: 55px; */
+    background-color:#222D32;
+
+}
+.man-sys{
+    line-height: 55px;
+    margin-left: 15px;
+    position: relative;
+}
+.man-sys a{
+    text-decoration: none;
+    color: #fff;    
+}
+
+.icon-gengduo{
+    color: #fff;
+    position: absolute;
+    z-index: 100;
+    top: -12px;
+    left: 6px;
+    height: 25px;
+    width: 25px;
+}
+.many{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 205px;
+    background-color: #394247;
+    z-index: 1021;
+}
+.many:hover{
+    background-color: #717d83;
+}
+.top-right{
+    height: 55px;
+    position: absolute;
+    top: 0px;
+    color: #fff;
+    right: 50px;
+}
+.top-right .top-right-ul{
+    display: flex;
+}
+.top-right .right-time{
+    margin-right: 50px;
+    color: #2fb9d4;
+    font-size: 16px;
+}
+.top-right .top-right-ul li p{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border-radius: 2px;
+    position: absolute;
+    top: 18px;
+    left: 25px;
+}
+.message{
+    position: relative;
+    /* width: 50px; */
+    margin-right: 50px;
+}
+.top-right .top-right-ul .message span{
+    position: absolute;
+    top: -18px;
+    left: 5px;
+}
+.message .iconfont{
+    color: #fff;
+    font-size: 20px;
+}
+.picture div{
+    width: 40px;
+    height: 40px;
+    margin-top: 7px;
+    background-color: red;
+    border-radius: 50%;
+    margin-right: 17px;
+}
+ .username span{
+     color: #fff;
+ }
+ .username{
+     position: relative;
+ }
+ .el-dropdown-menu{
+    position: absolute;
+    left: -20px !important;
+ }
+ .el-menu--horizontal.el-menu--dark .el-submenu .el-menu-item.is-active, .el-menu-item.is-active{
+    color: #fff !important;
+ }

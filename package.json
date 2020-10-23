@@ -8,13 +8,18 @@
     "@testing-library/user-event": "^7.2.1",
     "EventEmitter": "^1.0.0",
     "axios": "^0.20.0",
+    "echarts": "^4.9.0",
     "element-react": "^1.4.34",
     "element-theme-default": "^1.4.13",
+    "http-proxy-middleware": "^1.0.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-hot-loader": "^4.5.3",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.3",
+    "react-viewer": "^3.2.2",
+    "redux": "^4.0.5",
+    "wangeditor": "^4.0.3"
   },
   "scripts": {
     "start": "react-scripts start",

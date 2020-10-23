@@ -1,0 +1,34 @@
+.right-top{
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    background-color: #fff;
+    z-index: 100;
+}
+.el-tag--danger{
+    color: black !important;
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+}
+.el-tag--danger:hover{
+    background-color: #fff;
+    border-bottom: none;
+}
+.right-bottom{
+	padding-left: 10px;
+	width: 100%;
+    margin-top:50px  ;
+}
+.box1{
+    overflow: hidden;
+    margin-left: 220px;
+	/* height: 100%; */
+    /* height: 800px; */
+	/* background-color: pink; */
+}
+.bian{
+	color: red;
+}

@@ -1,0 +1,21 @@
+.operate{
+	width: 98%;
+	/* margin-left: 300px; */
+	margin-top: 30px;
+	background-color: rgb(242,242,242);
+	height: 50px;
+	line-height: 50px;
+	padding-left: 10px;
+}
+.operate span{
+	float: right;
+}
+.operate span .data{
+	width: 20px;
+	height: 20px;
+	border: none;
+	border-radius: 3px;
+	color: #fff;
+	text-align: center;
+	background-color: rgb(255,87,34);
+}

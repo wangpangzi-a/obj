@@ -1,0 +1,14 @@
+.box{
+    /* display: flex; */
+    height: 100%;
+}
+.box-top{
+    width: 100%;
+    height: 8%;
+    position: fixed;
+    z-index: 300;
+}
+.box-bottom{
+    height: 92%;
+    padding-top: 55px;
+}
